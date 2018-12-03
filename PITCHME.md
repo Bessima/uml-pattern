@@ -120,11 +120,11 @@ class Man
 
 @snap[span-100 auto-margin]
   @ul[split-screen-list](false)
-  - Отношение зависимости (dependency relationship)
-  - Отношение ассоциации (association relationship)
-  - Отношение агрегации (aggregation relationship)
-  - Отношение обобщения (generalization relationship)
-  - Отношение реализации (realization relationship)
+  - Отношение зависимости
+  - Отношение ассоциации
+  - Отношение агрегации
+  - Отношение обобщения
+  - Отношение реализации
 @ulend
 @snapend
 
