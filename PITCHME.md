@@ -52,8 +52,8 @@
 @size[1.25em]Представление классов
 @snapend
 
-@snap[auto-margin] 
-  ![man](images/man.png)
+@snap[span-100 auto-margin] 
+![man](images/man.png)
 @snapend
 
 +++
