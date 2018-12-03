@@ -42,8 +42,8 @@
 @size[1.25em](Диаграммы классов (Class Model))
 @snapend
 
-@snap[span-60]
-![logo](images/diagram.png)
+@snap[span-60 auto-margin]
+![main](images/diagram.png)
 @snapend
 
 +++
