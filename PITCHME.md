@@ -52,14 +52,14 @@
 @size[1.25em]Представление классов
 @snapend
 
-@snap[west span-50 auto-margin] 
+@snap[auto-margin] 
   ![man](images/man.png)
 @snapend
 
-@snap[east span-50 auto-margin]
-  
-  ```php
-  class Man
++++
+
+```php
+class Man
 {
 	/**
 	 * @var string
@@ -108,8 +108,6 @@
 		// TODO: implement here
 	}
 }
-  ```
-  
-@snapend
+```
 
 ---
