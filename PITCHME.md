@@ -18,7 +18,7 @@
 
 @snap[west span-50 auto-margin] 
   @ul[split-screen-list](false)
-  Статические диаграммы
+  @size[1em](Статические диаграммы)
   - классов
   - объектов
   - компонентов
@@ -28,7 +28,7 @@
 
 @snap[east span-50 auto-margin]
   @ul[split-screen-list](false)
-  Динамическеие диаграммы
+  @size[1em](Динамическеие диаграммы)
   - деятельности
   - сценариев
   - взаимодействия 
@@ -42,7 +42,7 @@
 @size[1.25em](Диаграммы классов (Class Model))
 @snapend
 
-@snap[north]
+@snap[span-100]
 ![logo](images/diagram.png)
 @snapend
 
