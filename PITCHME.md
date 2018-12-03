@@ -114,5 +114,36 @@ class Man
 }
 ```
 +++
+@snap[north]
+@size[1.25em]Базовые отношения
+@snapend
+
+@snap[span-100 auto-margin]
+  @ul[split-screen-list](false)
+  - Отношение зависимости (dependency relationship)
+  - Отношение ассоциации (association relationship)
+  - Отношение агрегации (aggregation relationship)
+  - Отношение обобщения (generalization relationship)
+  - Отношение реализации (realization relationship)
+@ulend
+@snapend
+
++++
+
+@snap[north]
+@size[1em]Отношение зависимости (dependency relationship)
+@snapend
+
+@snap[span-100 auto-margin]
+
+@snapend
+
+
++++
+
+@snap[north]
+@size[1.25em]Отношение обобщения
+@snapend
+
 
 ---
