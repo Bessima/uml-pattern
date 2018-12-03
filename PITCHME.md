@@ -43,7 +43,7 @@
 @snapend
 
 @snap[north]
-![logo](images/UML_logo.png)
+![logo](images/diagram.png)
 @snapend
 
 +++
