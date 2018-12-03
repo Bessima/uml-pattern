@@ -4,10 +4,10 @@
 ---
 
 @snap[north]
-@size[1.5em](Унифицированный язык моделирования)
+@size[1em](Унифицированный язык моделирования)
 @snapend
 
-@snap[span-100]
+@snap[span-60]
 ![logo](images/UML_logo.png)
 @snapend
 
