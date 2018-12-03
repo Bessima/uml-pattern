@@ -39,7 +39,7 @@
 ---
 
 @snap[north]
-@size[1.25em](Диаграммы классов (Class Model))
+@size[1em](Диаграммы классов (Class Model))
 @snapend
 
 @snap[span-60 auto-margin]
