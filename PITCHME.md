@@ -48,6 +48,68 @@
 
 +++
 
+@snap[north]
+@size[1.25em]Представление классов
+@snapend
 
+@snap[west span-50 auto-margin] 
+  ![man](images/man.png)
+@snapend
+
+@snap[east span-50 auto-margin]
+  
+  ```php
+  class Man
+{
+	/**
+	 * @var string
+	 */
+	protected $name;
+	/**
+	 * @var string
+	 */
+	protected $surname;
+	/**
+	 * @return string
+	 */
+	public function getName():string
+	{
+		// TODO: implement here
+		return "";
+	}
+	/**
+	 * @return string
+	 */
+	public function getFullName():string
+	{
+		// TODO: implement here
+		return "";
+	}
+	/**
+	 * @param string $name
+	 * @param string $surname
+	 */
+	protected function __construct(string $name, string $surname):void
+	{
+		// TODO: implement here
+	}
+	/**
+	 * @param string $name
+	 */
+	private function setName(string $name):void
+	{
+		// TODO: implement here
+	}
+	/**
+	 * @param string $surname
+	 */
+	private function setSurname(string $surname):void
+	{
+		// TODO: implement here
+	}
+}
+  ```
+  
+@snapend
 
 ---
