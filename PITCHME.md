@@ -7,7 +7,7 @@
 @size[1em](Унифицированный язык моделирования)
 @snapend
 
-@snap[span-60]
+@snap[span-60 auto-margin]
 ![logo](images/UML_logo.png)
 @snapend
 
