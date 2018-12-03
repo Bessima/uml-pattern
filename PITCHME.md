@@ -58,6 +58,10 @@
 
 +++
 
+@snap[north]
+@size[1.25em]Генерация кода класса
+@snapend
+
 ```php
 class Man
 {
@@ -109,5 +113,6 @@ class Man
 	}
 }
 ```
++++
 
 ---
