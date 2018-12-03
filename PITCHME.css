@@ -1,3 +1,8 @@
 .reveal section img {
   border: none;
 }
+
+.auto-margin {
+  margin: auto !important;
+  text-align: center !important;
+}
