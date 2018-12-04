@@ -113,25 +113,35 @@ class Man
 	}
 }
 ```
-+++
+---
+
 @snap[north]
-@size[1.25em]Базовые отношения
+@size[1.25em]Связь (relationship)
+@snapend
+
+@snap[span-100 auto-margin]
+![main](images/relationship.png)
+@snapend
+
++++
+
+@snap[north]
+@size[1.25em]Базовые связи
 @snapend
 
 @snap[span-100 auto-margin]
   @ul[split-screen-list](false)
-  - Отношение зависимости
-  - Отношение ассоциации
-  - Отношение агрегации
-  - Отношение обобщения
-  - Отношение реализации
+  - зависимость
+  - ассоциация
+  - агрегация
+  - обобщение
 @ulend
 @snapend
 
 +++
 
 @snap[north]
-@size[1em]Отношение зависимости (dependency relationship)
+@size[1em]Зависимость (dependency relationship)
 @snapend
 
 @snap[span-100 auto-margin]
@@ -141,7 +151,7 @@ class Man
 +++
 
 @snap[north]
-@size[1em]Отношение ассоциации (association relationship)
+@size[1em]Ассоциация (association relationship)
 @snapend
 
 @snap[span-100 auto-margin]
@@ -151,7 +161,7 @@ class Man
 +++
 
 @snap[north]
-@size[1em]Отношение агрегации (aggregation relationship)
+@size[1em]Агрегация (aggregation relationship)
 @snapend
 
 @snap[span-100 auto-margin]
@@ -161,7 +171,7 @@ class Man
 +++
 
 @snap[north]
-@size[1em]Отношение обобщения (generalization relationship)
+@size[1em]Обобщение (generalization relationship)
 @snapend
 
 @snap[span-100 auto-margin]
