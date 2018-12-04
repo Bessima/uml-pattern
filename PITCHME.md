@@ -138,12 +138,58 @@ class Man
 
 @snapend
 
++++
+
+@snap[north]
+@size[1em]Отношение ассоциации (association relationship)
+@snapend
+
+@snap[span-100 auto-margin]
+
+@snapend
 
 +++
 
 @snap[north]
-@size[1.25em]Отношение обобщения
+@size[1em]Отношение агрегации (aggregation relationship)
 @snapend
 
+@snap[span-100 auto-margin]
+
+@snapend
+
++++
+
+@snap[north]
+@size[1em]Отношение обобщения (generalization relationship)
+@snapend
+
+@snap[span-100 auto-margin]
+
+@snapend
+
++++
+
+@snap[north]
+@size[1em]Отношение реализации (realization relationship)
+@snapend
+
+@snap[span-100 auto-margin]
+
+@snapend
+
++++
+
+@snap[north]
+@size[1.25em]Обобщение отношений
+@snapend
+
+@snap[west span-50 auto-margin] 
+  
+@snapend
+
+@snap[east span-50 auto-margin]
+  
+@snapend
 
 ---
