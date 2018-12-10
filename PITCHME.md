@@ -164,55 +164,68 @@ class Man
 +++
 
 @snap[north]
-@size[1em]Отношение ассоциации (association relationship)
+    @div[split-screen-list](false)
+	Отношение обобщения
+	(generalization relationship)
+    @divend
 @snapend
 
 @snap[span-100 auto-margin]
-![main](images/dependency.png)
+![main](images/generalization.png)
 @snapend
 
 +++
-
 @snap[north]
-@size[1em]Агрегация (aggregation relationship)
+    @div[split-screen-list](false)
+	Отношение ассоциации 
+	(association relationship)
+    @divend
 @snapend
 
-@snap[span-100 auto-margin]
-
-@snapend
-
-+++
-
-@snap[north]
-@size[1em]Обобщение (generalization relationship)
-@snapend
-
-@snap[span-100 auto-margin]
-
-@snapend
-
-+++
-
-@snap[north]
-@size[1em]Отношение реализации (realization relationship)
-@snapend
-
-@snap[span-100 auto-margin]
-
-@snapend
-
-+++
-
-@snap[north]
-@size[1.25em]Обобщение отношений
-@snapend
-
-@snap[west span-50 auto-margin] 
-  
+@snap[west span-50 auto-margin]
+![main](images/association1.png)
 @snapend
 
 @snap[east span-50 auto-margin]
-  
+![main](images/association2.png)
 @snapend
+
+@snap[south span-100 auto-margin]
+![main](images/association3.png)
+@snapend
+
++++
+@snap[north]
+    @div[split-screen-list](false)
+	Отношение агрегации 
+	(aggregation relationship)
+    @divend
+@snapend
+
+@snap[span-100 auto-margin]
+![main](images/aggregation.png)
+@snapend
+
++++
+
+@snap[north]
+@size[1.25em](Базовые отношения)
+@snapend
+
+@snap[west span-50]
+  @ul[split-screen-list](false)
+  - отношение зависимости
+  - отношение обобщения
+  - отношение ассоциации
+  - отношение агрегации
+@ulend
+@snapend
+
+@snap[east span-50]
+![main](images/mainRelationship.png)
+@snapend
+
++++
+
 
 ---
