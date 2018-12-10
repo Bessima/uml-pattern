@@ -113,6 +113,22 @@ class Man
 	}
 }
 ```
++++
+
+@snap[north]
+@size[1.25em]Паттерн Одиночка
+@snapend
+
+@snap[span-100 auto-margin] 
+![man](images/singleton.png)
+@snapend
+
++++
+
+@snap[north]
+@size[1.25em]Генерация кода класса
+@snapend
+
 ---
 
 @snap[north]
