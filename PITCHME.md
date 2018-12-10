@@ -126,7 +126,7 @@ class Man
 ---
 
 @snap[north]
-@size[1.25em]Связь (relationship)
+@size[1.25em]Связи или отношения
 @snapend
 
 @snap[span-100 auto-margin]
@@ -136,36 +136,36 @@ class Man
 +++
 
 @snap[north]
-@size[1.25em]Базовые связи
+@size[1.25em]Базовые отношения
 @snapend
 
 @snap[span-100]
   @ul[split-screen-list](false)
-  - зависимость
-  - ассоциация
-  - агрегация
-  - обобщение
+  - отношение зависимости
+  - отношение ассоциации
+  - отношение агрегации
+  - отношение обобщения
 @ulend
 @snapend
 
 +++
 
 @snap[north]
-@size[1em]Зависимость (dependency relationship)
+@size[1em]Отношение зависимости(dependency relationship)
 @snapend
 
 @snap[span-100 auto-margin]
-
+![main](images/dependency.png)
 @snapend
 
 +++
 
 @snap[north]
-@size[1em]Ассоциация (association relationship)
+@size[1em]Отношение ассоциации (association relationship)
 @snapend
 
 @snap[span-100 auto-margin]
-
+![main](images/dependency.png)
 @snapend
 
 +++
