@@ -150,10 +150,10 @@ class Man
 
 +++
 
-@snap[north]
+@div[north]
 @size[1.25em](Отношение зависимости)
 @size[0.8em](dependency relationship)
-@snapend
+@divend
 
 @snap[span-100 auto-margin]
 ![main](images/dependency.png)
