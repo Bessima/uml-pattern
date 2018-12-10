@@ -116,7 +116,7 @@ class Man
 +++
 
 @snap[north]
-@size[1.25em](Паттерн Одиночка)
+@size[1.25em](Одиночка)
 @snapend
 
 @snap[span-100 auto-margin] 
@@ -126,7 +126,7 @@ class Man
 ---
 
 @snap[north]
-@size[1.25em](Связи или отношения)
+@size[1em](Связи или отношения)
 @snapend
 
 @snap[span-100 auto-margin]
@@ -152,7 +152,7 @@ class Man
 
 @snap[north]
 @size[1.25em](Отношение зависимости)
-@size[1em](dependency relationship)
+@size[0.8em](dependency relationship)
 @snapend
 
 @snap[span-100 auto-margin]
