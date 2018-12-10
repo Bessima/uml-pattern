@@ -123,12 +123,6 @@ class Man
 ![man](images/singleton.png)
 @snapend
 
-+++
-
-@snap[north]
-@size[1.25em]Генерация кода класса
-@snapend
-
 ---
 
 @snap[north]
@@ -145,7 +139,7 @@ class Man
 @size[1.25em]Базовые связи
 @snapend
 
-@snap[span-100 auto-margin]
+@snap[span-100]
   @ul[split-screen-list](false)
   - зависимость
   - ассоциация
