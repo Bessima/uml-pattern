@@ -152,8 +152,8 @@ class Man
 
 @snap[north]
     @div[split-screen-list](false)
-	- Отношение зависимости
-	- (dependency relationship)
+	Отношение зависимости
+	(dependency relationship)
     @divend
 @snapend
 
