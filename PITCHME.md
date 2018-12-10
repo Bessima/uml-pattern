@@ -49,7 +49,7 @@
 +++
 
 @snap[north]
-@size[1.25em]Представление классов
+@size[1.25em](Представление классов)
 @snapend
 
 @snap[span-100 auto-margin] 
@@ -59,7 +59,7 @@
 +++
 
 @snap[north]
-@size[1.25em]Генерация кода класса
+@size[1.25em](Генерация кода класса)
 @snapend
 
 ```php
@@ -116,7 +116,7 @@ class Man
 +++
 
 @snap[north]
-@size[1.25em]Паттерн Одиночка
+@size[1.25em](Паттерн Одиночка)
 @snapend
 
 @snap[span-100 auto-margin] 
@@ -126,7 +126,7 @@ class Man
 ---
 
 @snap[north]
-@size[1.25em]Связи или отношения
+@size[1.25em](Связи или отношения)
 @snapend
 
 @snap[span-100 auto-margin]
@@ -136,7 +136,7 @@ class Man
 +++
 
 @snap[north]
-@size[1.25em]Базовые отношения
+@size[1.25em](Базовые отношения)
 @snapend
 
 @snap[span-100]
@@ -151,7 +151,8 @@ class Man
 +++
 
 @snap[north]
-@size[1em]Отношение зависимости(dependency relationship)
+@size[1.25em](Отношение зависимости)
+@size[1em](dependency relationship)
 @snapend
 
 @snap[span-100 auto-margin]
