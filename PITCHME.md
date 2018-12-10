@@ -150,10 +150,12 @@ class Man
 
 +++
 
-@div[north]
-@size[1.25em](Отношение зависимости)
-@size[0.8em](dependency relationship)
-@divend
+@snap[north]
+    @div[split-screen-list](false)
+	- Отношение зависимости
+	- (dependency relationship)
+    @divend
+@snapend
 
 @snap[span-100 auto-margin]
 ![main](images/dependency.png)
