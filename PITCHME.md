@@ -243,7 +243,37 @@ class Man
 ![main](images/mainRelationship.png)
 @snapend
 
+---
+@snap
+@size[1.5em](Порождающие паттерны)
+@snapend
+
 +++
 
+@snap[north]
+@size[1.25em](Фабричный метод)
+@snapend
 
----
+@snap[span-100]
+  
+@snapend
+
++++
+
+@snap[north]
+@size[1.25em](Абстрактная фабрика)
+@snapend
+
+@snap[span-100]
+  
+@snapend
+
++++
+
+@snap[north]
+@size[1.25em](Строитель)
+@snapend
+
+@snap[span-100]
+  
+@snapend
