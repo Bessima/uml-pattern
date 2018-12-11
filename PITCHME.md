@@ -170,7 +170,7 @@ class Man
     @divend
 @snapend
 
-@snap[span-100 auto-margin]
+@snap[span-80 auto-margin]
 ![main](images/generalization.png)
 @snapend
 
