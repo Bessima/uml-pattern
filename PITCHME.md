@@ -291,7 +291,7 @@ class Man
 @size[1em](Абстрактная фабрика)
 @snapend
 @snap[span-100 auto-margin]
-  ![main](images/abstractFactory.png)
+![main](images/abstract.png)
 @snapend
 
 +++
