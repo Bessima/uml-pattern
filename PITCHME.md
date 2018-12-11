@@ -302,6 +302,10 @@ class Man
 @size[1em](Строитель)
 @snapend
 
-@snap[span-100]
+@snap[span-70]
 ![main](images/builder.png)
 @snapend
+
+---
+
+Спасибо за внимание!
