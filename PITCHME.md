@@ -45,7 +45,7 @@
 @size[1em](Диаграммы классов)
 @snapend
 
-@snap[south span-80 auto-margin]
+@snap[south span-60 auto-margin]
 ![main](images/diagram.png)
 @snapend
 
