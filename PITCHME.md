@@ -281,9 +281,8 @@ class Man
 @snap[north]
 @size[1em](Фабричный метод)
 @snapend
+@snap[span-100 auto-margin]
 ![main](images/factory.png)
-@snap[span-100]
-  
 @snapend
 
 +++
@@ -291,9 +290,8 @@ class Man
 @snap[north]
 @size[1em](Абстрактная фабрика)
 @snapend
-![main](images/abstractFactory.png)
-@snap[span-100]
-  
+@snap[span-100 auto-margin]
+  ![main](images/abstractFactory.png)
 @snapend
 
 +++
@@ -302,7 +300,7 @@ class Man
 @size[1em](Строитель)
 @snapend
 
-@snap[span-70]
+@snap[span-50 auto-margin]
 ![main](images/builder.png)
 @snapend
 
