@@ -153,7 +153,7 @@ class Man
 @snap[north]
     @div[split-screen-list](false)
 	Отношение зависимости
-	(dependency relationship)
+	@size[0.8em](dependency relationship)
     @divend
 @snapend
 
@@ -166,7 +166,7 @@ class Man
 @snap[north]
     @div[split-screen-list](false)
 	Отношение обобщения
-	(generalization relationship)
+	@size[0.8em](generalization relationship)
     @divend
 @snapend
 
@@ -178,7 +178,7 @@ class Man
 @snap[north]
     @div[split-screen-list](false)
 	Отношение ассоциации 
-	(association relationship)
+	@size[0.8em](association relationship)
     @divend
 @snapend
 
