@@ -195,6 +195,7 @@ class Man
 @snapend
 
 +++
+
 @snap[north]
     @div[split-screen-list](false)
 	Отношение агрегации 
@@ -202,8 +203,25 @@ class Man
     @divend
 @snapend
 
-@snap[span-100 auto-margin]
+@snap[west span-50 auto-margin]
 ![main](images/aggregation.png)
+@snapend
+
+@snap[east span-50 auto-margin]
+![main](images/aggregation1.jpeg)
+@snapend
+
++++
+
+@snap[north]
+    @div[split-screen-list](false)
+	Отношение композиции 
+	(composition relationship)
+    @divend
+@snapend
+
+@snap[span-100 auto-margin]
+![main](images/composition.jpeg)
 @snapend
 
 +++
