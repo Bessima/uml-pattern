@@ -1,10 +1,13 @@
 
-## Диаграммы классов
+## Объектное моделирование
 
 ---
 
 @snap[north]
-@size[1em](Унифицированный язык моделирования)
+    @div[split-screen-list](false)
+	UML
+	@size[0.8em](унифицированный язык моделирования)
+    @divend
 @snapend
 
 @snap[span-50 auto-margin]
