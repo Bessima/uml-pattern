@@ -7,7 +7,7 @@
 @size[1em](Унифицированный язык моделирования)
 @snapend
 
-@snap[span-60 auto-margin]
+@snap[span-50 auto-margin]
 ![logo](images/UML_logo.png)
 @snapend
 
@@ -28,7 +28,7 @@
 
 @snap[east span-50 auto-margin]
   @ul[split-screen-list](false)
-  @size[1em](Динамическеие диаграммы)
+  @size[1em](Динамические диаграммы)
   - деятельности
   - сценариев
   - взаимодействия 
@@ -44,6 +44,20 @@
 
 @snap[span-60 auto-margin]
 ![main](images/diagram.png)
+@snapend
+
++++
+
+@snap[north]
+@size[1em](Диаграммы классов)
+@snapend
+
+@snap[span-100 auto-margin]
+  @ul[split-screen-list](false)
+  -  классы
+  -  интерфейсы
+  -  связи или отношения
+@ulend
 @snapend
 
 +++
@@ -241,6 +255,18 @@ class Man
 
 @snap[east span-50]
 ![main](images/mainRelationship.png)
+@snapend
+
++++
+
+@snap[north]
+    @div[split-screen-list](false)
+	Интерфейсы
+    @divend
+@snapend
+
+@snap[span-100 auto-margin]
+![main](images/interface.png)
 @snapend
 
 ---
